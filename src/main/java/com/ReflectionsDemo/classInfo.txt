@@ -1,0 +1,3 @@
+# class 配置文件
+ClassName=com.ReflectionsDemo.Student
+Method=showAddr
